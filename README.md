@@ -26,6 +26,18 @@ Para consultar a referência da linguagem C/C++. Aqui dá pra pesquisar as bibli
 Para ver graficamente a execução e construção de alguns algorítimos e estruturas de dados. Ajuda muito no entendimento do funcionamento das estruturas.
 [Clique aqui](https://visualgo.net/en)
 
+### Hastebin
+Site para compartilhar trechos de código. Muitas vezes precisamos mostrar um trecho de código para alguém remotamente mas, fazer isso pelo _Whatsapp_, _Telegram_, etc fica bem complicado. No **Hastebin** você pode escrever seu trecho de código de forma simples, o site destaca as palavras chave da liguagem com cores, formata o código com fonte mono espaçada e, depois de salvo, você pode compartilhar a URL com qualquer pessoa. Seu código fica online por **7 dias**.
+[Clique aqui](https://hastebin.com/)
+
+### Pastebin
+O Pastebin também permite compartilhar trechos de código mas, diferente do Hastebin, ele tabém permite que o usuário crie uma conta e armazene seus códigos por mais tempo. Assim, você pode usá-lo como um repositório de código pessoal.
+[Clique aqui](https://pastebin.com/)
+
+### Codeshare
+O Codeshare é uma plataforma onde você pode codar em tempo real com outras pessoas. É uma ótima ferramenta para projetos em equipe onde vários integrantes podem trabalhar simultaneamente no mesmo código e ver as alterações acontecendo em tempo real.
+[Clique aqui](https://codeshare.io/)
+
 ## Livros
 
 ![Introdução à Linguagem de Programação C](c-book-1.jpg)
@@ -64,3 +76,11 @@ Tanto o Git como o GitHub fazem parte da vida do programador. Logo logo você se
 ![Trello](trello.png)
 
 O [Trello](https://trello.com/home) é uma plataforma onde você pode organizar os seus projetos criando quadros e cards. Você pode usá-lo para controlar as suas atividades do semestre, as tarefas de algum projeto que esteja participando, coordenar as atividades dos membros da sua equipe, etc... Ajuda muito na organização das suas atividades.
+
+### Guarde seus códigos
+
+À medida que vamos estudando, nos deparamos com vários tipos de problema diferentes para os quais implementamos as devidas soluções. É bem provável que esses problemas se repitam e, para que não seja preciso implementar toda a solução novamente, é interessante manter nossos códigos guardados em algum lugar para que possamos resgatá-los quando precisarmos. A ideia é fazer uma espécie de biblioteca de código pessoal para posteriores consultas.
+
+Ex: Suponha que você precisa resolver um problema de ordenar uma lista de valores. Você implementa a solução e tem sua lista ordenada. Suponha agora que dias depois você precisa implementar o ranking de uma competição. Você precisará novamente ordenar uma lista de valores, correto? Se você guardou o seu código que resolve esse problema, não precisará implementar novamente algo que já fez.
+
+Onde você pode armazenar seus códigos: GitHub, Pastebin, Google Drive, etc...
