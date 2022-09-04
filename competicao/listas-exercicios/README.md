@@ -8,4 +8,4 @@ São **3 listas** sendo as duas primeiras compostas por **15 questões** cada e 
 
 Cada questão vale **1 ponto**.
 
-A pontuação será calculada através **somatório dos pontos** onde cada lista terá um peso.
+A pontuação será calculada através do **somatório dos pontos** onde cada lista terá um peso.

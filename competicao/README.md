@@ -1,6 +1,6 @@
 # Franklin's Game
 
-Esta competição tem o objetivo de ajudar os calouros a se manterem ativos nos estudos durante o 1º período do curso, aplicar os conhecimentos em problemas práticos e adquirirem praticarem várias habilidades e incentivar o estudo do inglês como ferramenta para sua vida acadêmica e profissional.
+Esta competição tem o objetivo de ajudar os calouros a se manterem ativos nos estudos durante o 1º período do curso, aplicar os conhecimentos em problemas práticos, praticarem várias habilidades e incentivar o estudo do inglês como ferramenta para sua vida acadêmica e profissional.
 
 ## Especificações da competição
 
@@ -21,7 +21,7 @@ Vencerá quem obtiver maior pontuação no somatório das notas de todas as ativ
 
 A competição contará com premiação para o 1º e 2º lugares sendo a maior premiação concedida para o 1º lugar.
 
-A premiação será concedida após o final do período letivo, quando se encerram todas as atividades do período.
+A premiação será concedida após o final do período letivo, quando se encerram todas as atividades.
 
 *OBS: Estamos selecionando a premiação dos participantes*
 
