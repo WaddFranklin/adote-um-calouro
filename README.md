@@ -40,8 +40,8 @@ O Codeshare é uma plataforma onde você pode codar em tempo real com outras pes
 
 ## Livros
 
-![Introdução à Linguagem de Programação C](c-book-1.jpg)
-![Introdução à Linguagem de Programação C](c-book-2.jpg)
+![Introdução à Linguagem de Programação C](img/c-book-1.jpg)
+![Introdução à Linguagem de Programação C](img/c-book-2.jpg)
 
 ## Canais no YouTube 
 
@@ -62,7 +62,7 @@ O [Duolingo](https://pt.duolingo.com/) é um site/app que você pode usar para i
 
 ### Git e GitHub
 
-![Trello](git-github.png)
+![Trello](img/git-github.png)
 
 Assim que possível, aprenda a usar essas duas ferramentas:
 
@@ -73,7 +73,7 @@ Tanto o Git como o GitHub fazem parte da vida do programador. Logo logo você se
 
 ### Trello
 
-![Trello](trello.png)
+![Trello](img/trello.png)
 
 O [Trello](https://trello.com/home) é uma plataforma onde você pode organizar os seus projetos criando quadros e cards. Você pode usá-lo para controlar as suas atividades do semestre, as tarefas de algum projeto que esteja participando, coordenar as atividades dos membros da sua equipe, etc... Ajuda muito na organização das suas atividades.
 
@@ -84,3 +84,6 @@ O [Trello](https://trello.com/home) é uma plataforma onde você pode organizar 
 Ex: Suponha que você precisa resolver um problema de ordenar uma lista de valores. Você implementa a solução e tem sua lista ordenada. Suponha agora que dias depois você precisa implementar o ranking de uma competição. Você precisará novamente ordenar uma lista de valores, correto? Se você guardou o seu código que resolve esse problema, não precisará implementar novamente algo que já fez.
 
 Onde você pode armazenar seus códigos: GitHub, Pastebin, Google Drive, etc...
+
+### Franklin's Game
+Para saber sobre as especificações da minha competição, [Clique aqui](/competicao/README.md)
