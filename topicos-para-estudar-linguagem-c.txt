@@ -1,0 +1,61 @@
+- básico da linguagem
+	- operadores aritméticos
+	- operadores lógicos
+	- operadore de comparação
+	- comentários
+	- variáveis
+		- declaração
+		- inicialização
+	- atribuição de valores
+	
+- entrada e saída
+	- scanf
+	- printf
+	
+- decisão
+	- if / else if / else
+	- switch
+	- operador ternário (-_-')
+	
+- repetição
+	- for
+	- while
+	- do while
+	
+- funções
+	- passagem de parâmetros por valor
+	- passagem de parâmetros por referência
+	
+- arrays
+	- declaração
+	- acesso
+	- percorrendo um array
+	- busca
+	- como passa um array como parâmetro para uma função
+	- array com duas dimensões (matrizes)
+	- como percorrer uma matriz
+	
+- strings
+	- inicialização
+	- leitura
+	- impressão
+	- comparação
+	
+- ponteiros
+
+- structs
+
+- recursão
+
+- leitura e escrita em arquivos
+	- como escerver algo em um arquivo
+	- como ler algo de um arquivo
+	- como salvar informações em um arquivo
+	
+- arquivos .h (opcional)
+	- como organizar suas funções em arquivos separados
+	- como compilar seu projeto com arquivos .h
+	
+- algoritmos úteis
+	swap -> como trocar o valor de duas variáveis
+	bublesort -> como ordenar uma lista de valores 

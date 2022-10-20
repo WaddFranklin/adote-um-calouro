@@ -1,0 +1,42 @@
+* while / do while
+    * como funciona certinho o EOF
+* array
+    * como percorrer melhor o array?
+* string
+    * string.h
+        * strcpy()
+        * strcat()
+        * strcmp()
+        * strstr()
+        * strtok()
+        * strlen()
+        * memset()
+    * %s, %c e \0
+    * getchar()
+    * se tem como printar um array todo?
+- ponteiros
+- funções
+    - parâmetros
+        * passagem por valor
+        * passagem por referência
+        * array como parâmetro de uma função
+        - como passar uma string no retorno da função
+    * retorno
+    - escopo
+    - o que é função short, ex: short funcaoBlaBla (int valores);
+    - em que casos se faz da main uma função void, e como funciona a main como int
+* ordenação
+- alocação dinâmica:
+    - stdlib.h
+        - atoi()
+        - itoa()
+        - rand()
+        - calloc()
+        - malloc()
+        - realloc()
+    - array com um tamanho variável
+    
+
+Dúvidas:
+- se vale a pena fazer o código e depois fatorar / se é boa prática seguir esses dois passos
+- se é possível criar um array que varia de tamanho ao decorrer do código, e se eu altero o tamanho, oq acontece com oq tava nele

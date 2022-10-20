@@ -1,0 +1,19 @@
+* Assuntos
+- while / do while
+- como percorrer melhor o array
+- ordenação simples
+- array como parâmetro de uma função
+- ponteiro
+- como retornar string em funções
+- array com um tamanho variável
+
+* Perguntas:
+- tem como printar um array todo?
+- e o tal do \0?
+- é possível criar um array que varia de tamanho ao decorrer do código? e se eu altero o tamanho, oq acontece com oq tava nele?
+- em que casos se faz da main uma função void?
+- como funciona a main como int?
+- vale a pena fazer o código e depois fatorar?
+- é boa prática seguir esses dois passos?
+- como funfa certinho o EOF?
+- oq é função short? ex: short funcaoBlaBla (int valores);

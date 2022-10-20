@@ -29,5 +29,5 @@ A premiação será concedida após o final do período letivo, quando se encerr
 
 Esta competição não é obrigatória e não gera nenhum tipo de ônus para os competidores. A participação nesta atividade é feita mediante manifestação voluntária de interesse. Os participantes abaixo concordam em participar da competição:
 
-* **Caio César:**
-* **Matheus Ryan:**
+* **Caio César:** ✅
+* **Matheus Ryan:** ✅
