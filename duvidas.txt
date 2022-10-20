@@ -4,6 +4,13 @@
 - array
 - string
     - string.h
+        - strcpy()
+        - strcat()
+        - strcmp()
+        - strstr()
+        - strtok()
+        - strlen()
+        - memset()
     - %s, %c e \0
     - getchar()
     - como passar uma string no retorno da função
@@ -20,10 +27,15 @@
     - em que casos se faz da main uma função void, e como funciona a main como int
 - ordenação
 - alocação dinâmica:
+    - stdlib.h
+        - atoi()
+        - rand()
+        - calloc()
+        - malloc()
+        - realloc()
     - array com um tamanho variável
     
 
 Dúvidas:
-- stdlib.h
 - se vale a pena fazer o código e depois fatorar / se é boa prática seguir esses dois passos
 - se é possível criar um array que varia de tamanho ao decorrer do código, e se eu altero o tamanho, oq acontece com oq tava nele
