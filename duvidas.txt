@@ -1,7 +1,7 @@
 - while / do while
     - como funciona certinho o EOF
-    - como percorrer melhor o array?
 - array
+    - como percorrer melhor o array?
 - string
     - string.h
         - strcpy()
@@ -13,14 +13,14 @@
         - memset()
     - %s, %c e \0
     - getchar()
-    - como passar uma string no retorno da função
     - se tem como printar um array todo?
 - ponteiros
 - funções
     - parâmetros
-        passagem por valor
-        passagem por referência
-        array como parâmetro de uma função
+        - passagem por valor
+        - passagem por referência
+        - array como parâmetro de uma função
+        - como passar uma string no retorno da função
     - retorno
     - escopo
     - o que é função short, ex: short funcaoBlaBla (int valores);
@@ -29,6 +29,7 @@
 - alocação dinâmica:
     - stdlib.h
         - atoi()
+        - itoa()
         - rand()
         - calloc()
         - malloc()
