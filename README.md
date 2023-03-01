@@ -62,14 +62,14 @@ O [Duolingo](https://pt.duolingo.com/) é um site/app que você pode usar para i
 
 ### Git e GitHub
 
-![Trello](img/git-github.png)
-
 Assim que possível, aprenda a usar essas duas ferramentas:
 
 * **Git**: ferramenta para versionamento de código. 
 * **GitHub**: site onde você pode armazenar seus repositórios Git na nuvem, além de poder ter acesso aos repositórios de outros usuários, criar organizações, colaborar com projetos, etc...
 
 Tanto o Git como o GitHub fazem parte da vida do programador. Logo logo você será obrigado a fazer alguma coisa envolvendo uma delas ou as duas. Então melhor se antecipar. :]
+
+* **Curso gratuito de Git e Github**: [Clique Aqui](https://www.schoolofnet.com/curso/git/controle-de-versao/git-e-github/)
 
 ### Trello
 
