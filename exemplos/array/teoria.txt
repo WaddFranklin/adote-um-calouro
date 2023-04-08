@@ -1,0 +1,42 @@
+--- ARRAY ---
+
+    () - o que é: é uma estrutura de dados que serve para armazenar uma coleção de dados
+
+    () - declaração / inicialização
+         declaração: <tipo> <nome_do_array>[tamanho_do_array];
+                     int idades[5];
+         inicialização: int idades[5] = {12, 33, 37, 66, 53};
+         inicialização: int idades[100] = {0}; inicia o array com todos os valores 0 (só funciona para o 0)
+         inicialização: int idades[100] = {23, 44}; a posição 0 tem o valor 33, a posição 1 tem o valor 44 e as demais 98 posições têm o  valor 0
+
+    () - representação:
+          0  1  2  3  4   <- índices 
+         [12|33|37|66|53]
+
+    () - acesso aos dados
+         () - escrita: basta informar o número do índice onde quer inserir o dado e atribuir o valor
+                       lista[4] = 34;
+         () - leitura: basta informar o número do índice de onde quer ler o dado
+                       lista[0];
+
+    () - array como parâmetro de função: podemos passar arrays inteiros para funções como parâmetro
+         Ex: float notas[3] = {1.1, 10.0, 5.0}
+             assinatura da função: algumaFunção(float *array) ou algumaFunção(float array[])
+             passando o array notas para a função: algumaFunção(notas);
+
+   *() - passagem por valor e por referência
+         - passagem por valor: é passado apenas uma cópia do valor da variável, ou seja, as alterações do valor 
+                               dentro do corpo da função não alteram o valor da variável original
+
+         - passagem por referência: é passada referência da variável, ou seja
+                                    a função pode modificar o valor dessa variável dentro do seu corpo
+
+    () - strings: são arrays de caracteres
+         - as string são bastante utilizadas na computação. Esse tipo de dado tem várias funções úteis para
+           manipulação de cadeias de caracteres
+
+         - Ex: char nome[9] = "Franklin"; * perceba que criamos o array com uma posição a mais
+         - Ex: nome[3] contem o valor 'n'
+         - Ex: char nome[8] contem o caractere especial '\0' que indica o fim da string;
+
+    () - percorrer um array
